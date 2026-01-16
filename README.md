@@ -1,46 +1,69 @@
 # 👋 Hi, I'm Andy Frith
 
-I'm a Software Engineer focused on building high-performance, type-safe applications and exploring the boundaries of modern runtimes. Currently, I'm diving deep into the **Bun** ecosystem and **Hono** framework.
+### Strategic UI Leader & Full-Stack Architect
+
+**Empowering teams to deliver secure, high-performance software & exceptional UX.**
+
+I am a **Dynamic Problem Solver** and **Innovative UI Engineer** specializing in React, TypeScript, and the TanStack ecosystem. My philosophy—as seen on [andyfrith.com](https://andyfrith.com)—revolves around **Human-Led Innovation**: orchestrating AI solutions for growth while maintaining a customer-centered approach to translate complex insights into delightful, intuitive designs.
 
 ---
 
-## 🚀 Current Projects
+## 🌟 Core Philosophy: Better Than AI
 
-I’m currently focused on building a modern "Weather Stack" to demonstrate full-stack type safety and performance.
+While I efficiently harness AI technology for successful outcomes, I believe in:
 
-### 🌤️ [Weather API](https://github.com/andyfrith/weather-api)
-
-A high-performance RESTful API built with **Bun** and **Hono**.
-
-- **Stack**: TypeScript, Bun, Zod OpenAPI, Sentry.
-- **Why it matters**: It achieves sub-millisecond routing and generates automated OpenAPI documentation.
-
-### ⚛️ [Weather React Client](https://github.com/andyfrith/weather-reactjs)
-
-A foundational React.js frontend built to consume the Weather API.
-
-- **Stack**: React, Vite, Zod OpenAPI Client.
-- **Why it matters**: Demonstrates "Contract-First" development where the frontend is automatically validated against the backend schema.
+- **Team First**: Fostering communication, collaboration, inclusivity, and trust.
+- **Strategic Vision**: Architecting future-proof systems that balance ingenuity with proven reliability.
+- **Trusted Solutions**: Delivering high-quality, secure architecture for the modern web.
 
 ---
 
-## 🛠️ Tech Stack & Toolbox
+## 🚀 Fantastic Projects & Best Practices
 
-| Category               | Tools                                |
-| :--------------------- | :----------------------------------- |
-| **Runtimes/Languages** | Bun, Node.js, TypeScript, JavaScript |
-| **Frameworks**         | Hono, React, Express                 |
-| **Infrastructure**     | Sentry, GitHub Actions, Docker       |
-| **Tools**              | Cursor IDE, Zod, OpenAPI             |
+### 🌤️ The Modern Weather Stack
+
+A showcase of full-stack type safety and sub-millisecond performance.
+
+- **[Weather API](https://github.com/andyfrith/weather-api)**: A Bun + Hono powerhouse utilizing Zod OpenAPI for a "Single Source of Truth."
+- **[Weather React Client](https://github.com/andyfrith/weather-reactjs)**: A React-based UI leveraging the Zod OpenAPI client to eliminate API drift and ensure zero-fault integration.
+
+### 🏗️ Portfolio & AI Innovations
+
+| Project                                                               | Focus         | Tech Highlights                                            |
+| :-------------------------------------------------------------------- | :------------ | :--------------------------------------------------------- |
+| **[ai-file-analyzer](https://github.com/andyfrith/ai-file-analyzer)** | AI & RAG      | Gemini 1.5 Pro, TypeScript, Intelligent Document Analysis. |
+| **[portfolio-admin](https://github.com/andyfrith/portfolio-admin)**   | Enterprise UI | **Next.js 15**, **React 19**, **TanStack Query v5**.       |
+| **[portfolio-api](https://github.com/andyfrith/portfolio-api)**       | Backend       | Hono, Drizzle ORM, PostgreSQL, Bun.                        |
+
+---
+
+## 🛠️ Expertise & Toolbox
+
+### UI Engineering (React & TanStack Expert)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Modern Backend & AI
+
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
+
+---
+
+## 📊 Impact at a Glance
+
+![Andy's Stats](https://github-readme-stats.vercel.app/api?username=andyfrith&show_icons=true&theme=radical&rank_icon=github)
 
 ---
 
 ## 📫 Let's Connect
 
-- **GitHub**: [andyfrith](https://github.com/andyfrith)
-- **Web**: [Your Website/Portfolio Link]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Portfolio**: [andyfrith.com](https://andyfrith.com)
+- **LinkedIn**: [linkedin.com/in/goodapplemedia](https://linkedin.com/in/goodapplemedia)
+- **GitHub**: [@andyfrith](https://github.com/andyfrith)
 
----
-
-> "Build for performance, but design for developers."
+> _"Delivering sound, proven, and trusted architecture solutions that are ready for any challenge."_
