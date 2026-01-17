@@ -39,7 +39,7 @@ A showcase of full-stack type safety and sub-millisecond performance.
 
 ## 🛠️ Expertise & Toolbox
 
-### UI Engineering (React & TanStack Expert)
+### UI Engineering (React & TanStack)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
@@ -51,14 +51,6 @@ A showcase of full-stack type safety and sub-millisecond performance.
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
-
----
-
-## 📊 Impact at a Glance
-
-![Andy's Stats](https://github-readme-stats.vercel.app/api?username=andyfrith&show_icons=true&theme=radical&rank_icon=github)
-
----
 
 ## 📫 Let's Connect
 
