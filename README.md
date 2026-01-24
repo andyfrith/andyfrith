@@ -27,6 +27,10 @@ A showcase of full-stack type safety and sub-millisecond performance.
 - **[Weather API](https://github.com/andyfrith/weather-api)**: A Bun + Hono powerhouse utilizing Zod OpenAPI for a "Single Source of Truth."
 - **[Weather React Client](https://github.com/andyfrith/weather-reactjs)**: A React-based UI leveraging the Zod OpenAPI client to eliminate API drift and ensure zero-fault integration.
 
+### 📊 Full-Stack Dashboard: Vertical Type-Safe Architecture
+
+- **[Dashboard](https://github.com/andyfrith/dashboard-reactjs-tanstack-trpc-cloudflare)**: This repository serves as a blueprint for **Vertical Type Safety**. It demonstrates a production-grade dashboard where types flow uninterrupted from the Cloudflare Edge to the React 19 frontend, utilizing a hand-picked stack of industry-leading libraries for maximum performance and developer velocity.
+
 ### 🏗️ Portfolio & AI Innovations
 
 | Project                                                               | Focus         | Tech Highlights                                            |
