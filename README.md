@@ -20,12 +20,12 @@ While I efficiently harness AI technology for successful outcomes, I believe in:
 
 ## 🚀 Fantastic Projects & Best Practices
 
-### 🌤️ The Modern Weather Stack
+### 🌤️ A Modern AI Weather Stack
 
 A showcase of full-stack type safety and sub-millisecond performance.
 
 - **[Weather API](https://github.com/andyfrith/weather-api)**: A Bun + Hono powerhouse utilizing Zod OpenAPI for a "Single Source of Truth."
-- **[Weather React Client](https://github.com/andyfrith/weather-reactjs)**: A React-based UI leveraging the Zod OpenAPI client to eliminate API drift and ensure zero-fault integration.
+- **[Weather React Client](https://github.com/andyfrith/weather-reactjs)**: 🌤️ Weather AI: Generative Travel Intelligence: A React-based UI leveraging Google Gemini AI, TanStack Query and the Zod OpenAPI client to eliminate API drift and ensure zero-fault integration.
 
 ### 📊 Full-Stack Dashboard: Vertical Type-Safe Architecture
 
