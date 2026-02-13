@@ -31,9 +31,11 @@ A showcase of full-stack type safety and sub-millisecond performance.
 
 - **[Maplibre React](https://github.com/andyfrith/maplibre-reactjs)**: An interactive, high-performance mapping application built with React and MapLibre GL JS. This project demonstrates how to leverage vector tiles and GPU-accelerated rendering to create beautiful, responsive map interfaces.
 
-### 📊 Full-Stack Dashboard: Vertical Type-Safe Architecture
+### 📊 Full-Stack: Vertical Type-Safe Architecture
 
 - **[Dashboard](https://github.com/andyfrith/dashboard-reactjs-tanstack-trpc-cloudflare)**: This repository serves as a blueprint for **Vertical Type Safety**. It demonstrates a production-grade dashboard where types flow uninterrupted from the Cloudflare Edge to the React 19 frontend, utilizing a hand-picked stack of industry-leading libraries for maximum performance and developer velocity.
+
+- **[Todos Admin](https://github.com/andyfrith/todos-admin)**: A production-ready full-stack starter built with the TanStack ecosystem: type-safe routing, server functions, real-time data with React Query, and a PostgreSQL-backed Todo CRUD app.
 
 ### 🏗️ Portfolio & AI Innovations
 
