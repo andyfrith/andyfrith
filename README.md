@@ -31,6 +31,10 @@ A showcase of full-stack type safety and sub-millisecond performance.
 
 - **[Maplibre React](https://github.com/andyfrith/maplibre-reactjs)**: An interactive, high-performance mapping application built with React and MapLibre GL JS. This project demonstrates how to leverage vector tiles and GPU-accelerated rendering to create beautiful, responsive map interfaces.
 
+### 🌍 Intelligent Travel Experience Design
+
+- **[Explorer UI](https://github.com/andyfrith/explorer-ui)**: 🌤️ Explorer UI is a composable UI system built for modern travel applications that blends AI storytelling, real-time data, and beautiful interface design.
+
 ### 📊 Full-Stack: Vertical Type-Safe Architecture
 
 - **[Dashboard](https://github.com/andyfrith/dashboard-reactjs-tanstack-trpc-cloudflare)**: This repository serves as a blueprint for **Vertical Type Safety**. It demonstrates a production-grade dashboard where types flow uninterrupted from the Cloudflare Edge to the React 19 frontend, utilizing a hand-picked stack of industry-leading libraries for maximum performance and developer velocity.
