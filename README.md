@@ -41,6 +41,10 @@ A showcase of full-stack type safety and sub-millisecond performance.
 
 - **[Todos Admin](https://github.com/andyfrith/todos-admin)**: A production-ready full-stack starter built with the TanStack ecosystem: type-safe routing, server functions, real-time data with React Query, and a PostgreSQL-backed Todo CRUD app.
 
+### ⚛️ React: UI Component Architecture, Typed, Tested and Styled
+
+- **[Password Strength Checker](https://github.com/andyfrith/password-strength-checker)**: A simple demonstration of React, React Context, Tailwind CSS and Vitest!
+
 ### 🏗️ Portfolio & AI Innovations
 
 | Project                                                               | Focus         | Tech Highlights                                            |
