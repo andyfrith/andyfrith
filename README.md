@@ -45,6 +45,10 @@ A showcase of full-stack type safety and sub-millisecond performance.
 
 - **[Password Strength Checker](https://github.com/andyfrith/password-strength-checker)**: A simple demonstration of React, React Context, Tailwind CSS and Vitest!
 
+### 📊 Data Visualizations: React Visualizations and Chart Library Explorations
+
+- **[Data Visualizations](https://github.com/andyfrith/data-visualizations)**: This project is the research and exploration of building optimized data visualizations with React and large datasets. The application is engineered with Next.js 15, React v19. Visualizations have been created using D3, Recharts and Shadcn UI (Beautiful Charts).
+
 ### 🏗️ Portfolio & AI Innovations
 
 | Project                                                               | Focus         | Tech Highlights                                            |
